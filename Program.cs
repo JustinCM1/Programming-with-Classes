@@ -145,8 +145,8 @@
     static int GetMoveChoice(string currentPlayer)
     {
         Console.Write($"{currentPlayer}, its your turn. ");
-        string? move_string = Console.ReadLine();
-        int choice = int.Parse(move_string);
+        // string? move_string = Console.ReadLine();
+        int choice = Int16.Parse(Console.ReadLine());
 
         return choice;
     }
