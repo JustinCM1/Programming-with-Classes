@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKt6gtVbQscKMse3vVJ2gxFzUg4BFUlq8fh4LJ4bxa7sh5T3aetNZgJEu2w4C5flpL7PBJkyb0/Tmtwy76xOMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justins-Laptop\\Documents\\School\\Programming with Classes\\raylib-gameobject\\raylib-gameobject\\raylib-gameobject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justins-Laptop\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\Justins-Laptop\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
