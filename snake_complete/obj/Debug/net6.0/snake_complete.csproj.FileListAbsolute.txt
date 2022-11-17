@@ -1,0 +1,5 @@
+C:\Users\Justins-Laptop\Documents\School\Programming with Classes\snake_complete\obj\Debug\net6.0\snake_complete.csproj.AssemblyReference.cache
+C:\Users\Justins-Laptop\Documents\School\Programming with Classes\snake_complete\obj\Debug\net6.0\snake_complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justins-Laptop\Documents\School\Programming with Classes\snake_complete\obj\Debug\net6.0\snake_complete.AssemblyInfoInputs.cache
+C:\Users\Justins-Laptop\Documents\School\Programming with Classes\snake_complete\obj\Debug\net6.0\snake_complete.AssemblyInfo.cs
+C:\Users\Justins-Laptop\Documents\School\Programming with Classes\snake_complete\obj\Debug\net6.0\snake_complete.csproj.CoreCompileInputs.cache
